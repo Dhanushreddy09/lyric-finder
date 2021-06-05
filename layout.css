@@ -153,6 +153,9 @@ li {
   button {
     width: 80px;
     max-width: 100%;
+    height: 36px;
+    top: 1.3px;
+    right: 3px;
   }
   .song-list li {
     margin-bottom: 15px;
